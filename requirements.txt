@@ -1,0 +1,7 @@
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.131.0
+python-dotenv==1.0.1
+fastapi==0.112.2
+uvicorn==0.30.6
+python-dateutil==2.9.0.post0
+google-api-core==2.19.2 
